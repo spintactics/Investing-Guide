@@ -67,14 +67,35 @@
 ## Overview
 
 <a href="#retirement-investing">Retirement Investing</a>
-  ```sh
-  Retirement Investing is by far the most efficient way to invest. The downside is that the money is best left untouched until age 55/59.5
-  ```
+Retirement investing is by far the most efficient way to invest. The downside is that the money is best left untouched until age 55/59.5. This will cover various kinds of retirement investment accounts.
+
+<a href="#taxable-investing">Taxable Investing</a>
+Taxable investing is the most varied of investing. Money goes here if:
+* Your timetable for withdrawing money is before retirement age
+* You already maxed out your retirement accounts
+This section will cover various strategies for taxable investing.
+
+<a href="#fsa">FSA</a>
+FSA is a way to avoid paying income tax on money spent on many everyday items, such as diapers and condoms.
 
 
 
 <!-- RETIREMENT INVESTING -->
 ## Retirement Investing
+
+TODO
+
+
+
+<!-- TAXABLE INVESTING -->
+## Taxable Investing
+
+TODO
+
+
+
+<!-- FSA -->
+## FSA
 
 TODO
 
