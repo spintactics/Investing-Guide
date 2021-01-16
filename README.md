@@ -31,6 +31,7 @@
   <p align="center">
     A Guide to Picking the Correct Investment Strategy For you
   </p>
+  <br />
 </p>
 
 
@@ -60,6 +61,22 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+
+
+<!-- OVERVIEW -->
+## Overview
+
+<p href="#retirement-investing">Retirement Investing</p>
+  ```sh
+  Retirement Investing is by far the most efficient way to invest. The downside is that the money is best left untouched until age 55/59.5
+  ```
+
+
+
+<!-- RETIREMENT INVESTING -->
+## Retirement Investing
+
+TODO
 
 
 
