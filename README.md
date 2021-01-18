@@ -48,8 +48,14 @@
       <ul>
         <li><a href="#401k">401k</a></li>
         <li><a href="#ira">IRA</a></li>
-        <li><a href="#401k-or-ira">401k or IRA</a></li>
+        <li><a href="#traditional-or-roth">Traditional or Roth</a></li>
         <li><a href="#hsa">HSA</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#taxable-investing">Retirement Investing</a>
+      <ul>
+        <li><a href="#asset-allocation">Asset Allocation</a></li>
       </ul>
     </li>
     <li>
@@ -94,13 +100,20 @@ FSA is a way to avoid paying income tax on money spent on many everyday items, s
 
 ### 401k
 
-TODO
+* Only available through your employer
+* $19,500 annual contribution cap for 2021
+* Don't forget to rollover your previous employer's 401k into your new 401k or IRA. The last thing you want to do is to withdraw from 10 different 401k accounts when you retire
+* Can only buy mutual funds. Can't buy stocks or ETFs unless you do a backdoor IRA. For a mutual fund, the safest route is to pick a Retirement Fund in the decade you plan to retire. More on how retirement funds work <a href="#asset-allocation">here</a>.
+```
+Example
+You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050". If you are retiring in 2055, then you could go with 2050 if you want to be safer, or 2060 if you want to be riskier.
+```
 
 ### IRA
 
 TODO
 
-### 401k or IRA
+### Traditional or Roth
 
 TODO
 
@@ -112,6 +125,10 @@ TODO
 
 <!-- TAXABLE INVESTING -->
 ## Taxable Investing
+
+TODO
+
+### Asset Allocation
 
 TODO
 
