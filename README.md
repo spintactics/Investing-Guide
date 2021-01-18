@@ -105,9 +105,9 @@ FSA is a way to avoid paying income tax on money spent on many everyday items, s
 * Don't forget to rollover your previous employer's 401k into your new 401k or IRA. The last thing you want to do is to withdraw from 10 different 401k accounts when you retire
 * Can only buy mutual funds. Can't buy stocks or ETFs unless you do a backdoor IRA. For a mutual fund, the safest route is to pick a Retirement Fund in the decade you plan to retire. More on how retirement funds work <a href="#asset-allocation">here</a>.
 ```
-Example
-You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050". If you are retiring in 2055, then you could go with 2050 if you want to be safer, or 2060 if you want to be riskier.
+Picking a Mutual Fund Example
 ```
+* You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050". If you are retiring in 2055, then you could go with 2050 if you want to be safer, or 2060 if you want to be riskier.
 
 ### IRA
 
