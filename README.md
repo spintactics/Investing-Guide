@@ -100,18 +100,27 @@ FSA is a way to avoid paying income tax on money spent on many everyday items, s
 
 ### 401k
 
+* For those who want their money on autopilot
 * Only available through your employer
-* $19,500 annual contribution cap for 2021
+* $19,500 annual contribution limit for 2021
 * Don't forget to rollover your previous employer's 401k into your new 401k or IRA. The last thing you want to do is to withdraw from 10 different 401k accounts when you retire
 * Can only buy mutual funds. Can't buy stocks or ETFs unless you do a backdoor IRA. For a mutual fund, the safest route is to pick a Retirement Fund in the decade you plan to retire. More on how retirement funds work <a href="#asset-allocation">here</a>.
+* Mutual funds can be cheaper through your 401k than through your IRA
 ```
 Picking a Mutual Fund Example
 ```
-* You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050". If you are retiring in 2055, then you could go with 2050 if you want to be safer, or 2060 if you want to be riskier.
+* You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050". If you are retiring in 2055, then you could go with 2050 if you want to be safer, or 2060 if you want to be greedier and riskier.
 
 ### IRA
 
-TODO
+* For those who want a more hands-on approach to their investing
+* $6,000 annual contribution limit for 2021 ($7,000 if you're 50 or older)
+* You can bypass the annual contribution limit by depositing money into the IRA directly from your 401k (rollover). This process is known as a "backdoor IRA". This is especially useful if you wanted to invest in stocks with your 401k money
+* The annual contribution limit is lower if you make more than $125,000/$198,000 single/married. You can't contribute at all if you make more than $140,000/$208,000
+* Can buy stocks, ETFs, mutual funds, bonds, CDs, and more
+* Some recommended IRA providers: Ameritrade and Fidelity (especially if your 401k is with them). These providers do not have any trading fees, no matter what. If your 401k is already with Fidelity, doing a backdoor IRA does not incur a fee if your IRA is also with Fidelity
+
+
 
 ### Traditional or Roth
 
