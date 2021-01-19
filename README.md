@@ -174,7 +174,8 @@ Assumptions:
 * +8.5% return per year
 * Final balance after 30 years is ~$400,000
 
-You avoid $30,000 in income taxes over 30 years.
+You avoid ~$30,000 in income taxes over 30 years.
+
 If you withdraw:
 * No income tax before or after retirement for medical expenses
 * Before retirement, income tax + penalty for any other reason
