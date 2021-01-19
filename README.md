@@ -72,18 +72,25 @@
 
 <details open="open">
   <summary>Overview</summary>
+
+  <br />
   <a href="#retirement-investing">Retirement Investing</a>
+  <br />
   <br />
   Retirement investing is by far the most efficient way to invest. The downside is that the money is best left untouched until age 55/59.5. This will cover various kinds of retirement investment accounts.
 
+  <br />
   <a href="#taxable-investing">Taxable Investing</a>
+  <br />
   <br />
   Taxable investing is the most varied of investing. Money goes here if:
   * Your timetable for withdrawing money is before retirement age
   * You already maxed out your retirement accounts
   This section will cover various strategies for taxable investing.
 
+  <br />
   <a href="#fsa">FSA</a>
+  <br />
   <br />
   FSA is a way to avoid paying income tax on money spent on many everyday items, such as diapers and condoms.
 </details>
@@ -101,6 +108,7 @@
 <details open="open">
   <summary>401k</summary>
 
+  <br />
   * For those who want their money on autopilot
   * Only available through your employer
   * $19,500 annual contribution limit for 2021
@@ -122,6 +130,7 @@
 <details open="open">
   <summary>IRA</summary>
 
+  <br />
   * For those who want a more hands-on approach to their investing
   * $6,000 annual contribution limit for 2021 ($7,000 if you're 50 or older)
   * You can bypass the annual contribution limit by depositing money into the IRA directly from your 401k (rollover). This process is known as a "backdoor IRA". This is especially useful if you wanted to invest in stocks with your 401k money
@@ -135,6 +144,8 @@
 
 <details open="open">
   <summary>Traditional or Roth</summary>
+
+  <br />
   Both 401ks and IRAs come in 2 versions, traditional and roth. If you can max out all your retirement accounts, then you should be using a roth, and convert all your traditional retirement accounts into roth. Converting a traditional account to roth means you'll pay income tax on the amount converted. You can convert in phases if you can't afford the income tax of the full conversion at once.
 
   * Note that a traditional 401k/IRA has RMD, Required Minimum Distribution. This means that at the age of 72, you must liquidate the whole account within 10 years. Thus, if you have a large balance, you will skyrocket in tax bracket. If someone else inherits your account, they will also be subject to RMD. Roth has no such restrictions.
@@ -172,6 +183,8 @@
 
 <details open="open">
   <summary>HSA</summary>
+
+  <br />
   If your health plan comes with an HSA, I strongly recommend you max it out. Best to see an HSA as an investment vehicle, rather than an account for medical expenses. HSA is more powerful than a traditional 401k, and should be treated as a secondary 401k. This would mean your emergency budget should be increased to account for your health plan deductible.
 
   * Only available if your health plan comes with it
@@ -215,6 +228,8 @@ TODO
 
 <details open="open">
   <summary>FSA</summary>
+
+  <br />
   FSA is an account for health related expenses. Unlike the HSA, though, you can't invest it and you will lose money at the end of the year if you don't use it.
 
   * Only available if your employer offers it
