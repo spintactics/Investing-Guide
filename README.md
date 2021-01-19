@@ -103,114 +103,114 @@
 <details open="open">
   <summary>Retirement Investing</summary>
 
-  ### 401k
+### 401k
 
-  <details open="open">
-    <summary>401k</summary>
+<details open="open">
+  <summary>401k</summary>
 
-    <br />
+  <br />
 
-    * For those who want their money on autopilot
-    * Only available through your employer
-    * $19,500 annual contribution limit for 2021
-    * Don't forget to rollover your previous employer's 401k into your new 401k or IRA. The last thing you want to do is to withdraw from 10 different 401k accounts when you retire
-    * Can only buy mutual funds. Can't buy stocks or ETFs unless you do a backdoor IRA. For a mutual fund, the safest route is to pick a Retirement Fund in the decade you plan to retire. More on how retirement funds work <a href="#asset-allocation">here</a>.
-    * Mutual funds can be cheaper through your 401k than through your IRA
+  * For those who want their money on autopilot
+  * Only available through your employer
+  * $19,500 annual contribution limit for 2021
+  * Don't forget to rollover your previous employer's 401k into your new 401k or IRA. The last thing you want to do is to withdraw from 10 different 401k accounts when you retire
+  * Can only buy mutual funds. Can't buy stocks or ETFs unless you do a backdoor IRA. For a mutual fund, the safest route is to pick a Retirement Fund in the decade you plan to retire. More on how retirement funds work <a href="#asset-allocation">here</a>.
+  * Mutual funds can be cheaper through your 401k than through your IRA
 
-    ```yaml
-    Picking a Mutual Fund Example
+  ```yaml
+  Picking a Mutual Fund Example
 
-    You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050". If you are retiring in 2055, then you could go with 2050 if you want to be safer, or 2060 if you want to be greedier and riskier.
+  You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050". If you are retiring in 2055, then you could go with 2050 if you want to be safer, or 2060 if you want to be greedier and riskier.
 
-    ```
+  ```
 
-  </details>
+</details>
 
-  ### IRA
+### IRA
 
-  <details open="open">
-    <summary>IRA</summary>
+<details open="open">
+  <summary>IRA</summary>
 
-    <br />
+  <br />
 
-    * For those who want a more hands-on approach to their investing
-    * $6,000 annual contribution limit for 2021 ($7,000 if you're 50 or older)
-    * You can bypass the annual contribution limit by depositing money into the IRA directly from your 401k (rollover). This process is known as a "backdoor IRA". This is especially useful if you wanted to invest in stocks with your 401k money
-    * The annual contribution limit is lower if you make more than $125,000/$198,000 single/married. You can't contribute at all if you make more than $140,000/$208,000
-    * Can buy stocks, ETFs, mutual funds, bonds, CDs, and more
-    * You can sell & buy stocks without incurring any capital gains tax in the account. This makes IRAs EXTREMELY powerful for those who continually buy & sell stocks & ETFs
-    * Some recommended IRA providers: Ameritrade and Fidelity (especially if your 401k is with them). These providers do not have any trading fees, no matter what. If your 401k is already with Fidelity, doing a backdoor IRA does not incur a fee if your IRA is also with Fidelity
-  </details>
+  * For those who want a more hands-on approach to their investing
+  * $6,000 annual contribution limit for 2021 ($7,000 if you're 50 or older)
+  * You can bypass the annual contribution limit by depositing money into the IRA directly from your 401k (rollover). This process is known as a "backdoor IRA". This is especially useful if you wanted to invest in stocks with your 401k money
+  * The annual contribution limit is lower if you make more than $125,000/$198,000 single/married. You can't contribute at all if you make more than $140,000/$208,000
+  * Can buy stocks, ETFs, mutual funds, bonds, CDs, and more
+  * You can sell & buy stocks without incurring any capital gains tax in the account. This makes IRAs EXTREMELY powerful for those who continually buy & sell stocks & ETFs
+  * Some recommended IRA providers: Ameritrade and Fidelity (especially if your 401k is with them). These providers do not have any trading fees, no matter what. If your 401k is already with Fidelity, doing a backdoor IRA does not incur a fee if your IRA is also with Fidelity
+</details>
 
-  ### Traditional or Roth
+### Traditional or Roth
 
-  <details open="open">
-    <summary>Traditional or Roth</summary>
+<details open="open">
+  <summary>Traditional or Roth</summary>
 
-    <br />
-    Both 401ks and IRAs come in 2 versions, traditional and roth. If you can max out all your retirement accounts, then you should be using a roth, and convert all your traditional retirement accounts into roth. Converting a traditional account to roth means you'll pay income tax on the amount converted. You can convert in phases if you can't afford the income tax of the full conversion at once.
+  <br />
+  Both 401ks and IRAs come in 2 versions, traditional and roth. If you can max out all your retirement accounts, then you should be using a roth, and convert all your traditional retirement accounts into roth. Converting a traditional account to roth means you'll pay income tax on the amount converted. You can convert in phases if you can't afford the income tax of the full conversion at once.
 
-    * Note that a traditional 401k/IRA has RMD, Required Minimum Distribution. This means that at the age of 72, you must liquidate the whole account within 10 years. Thus, if you have a large balance, you will skyrocket in tax bracket. If someone else inherits your account, they will also be subject to RMD. Roth has no such restrictions.
+  * Note that a traditional 401k/IRA has RMD, Required Minimum Distribution. This means that at the age of 72, you must liquidate the whole account within 10 years. Thus, if you have a large balance, you will skyrocket in tax bracket. If someone else inherits your account, they will also be subject to RMD. Roth has no such restrictions.
 
-    Below I will illustrate the differences between Traditional and Roth accounts with some examples. Here are the assumptions we will make across both examples:
-    * You contribute $20,000 per year for 30 years. $600,000 total contributions
-    * +8.5% return per year
-    * Final balance after 30 years is $2.4 million
+  Below I will illustrate the differences between Traditional and Roth accounts with some examples. Here are the assumptions we will make across both examples:
+  * You contribute $20,000 per year for 30 years. $600,000 total contributions
+  * +8.5% return per year
+  * Final balance after 30 years is $2.4 million
 
-    ```yaml
-    Traditional 401ks/IRAs Example
+  ```yaml
+  Traditional 401ks/IRAs Example
 
-    By the end of the 30 years, you will have avoided ~$200,000 in income taxes during your career.
-    You will pay ~$800,000 in income taxes on the account when you retire.
+  By the end of the 30 years, you will have avoided ~$200,000 in income taxes during your career.
+  You will pay ~$800,000 in income taxes on the account when you retire.
 
-    Net taxes paid = ~$600,000
+  Net taxes paid = ~$600,000
 
-    ```
+  ```
 
 
-    ```yaml
-    Roth 401ks/IRAs Example
+  ```yaml
+  Roth 401ks/IRAs Example
 
-    By the end of the 30 years, you will have paid ~$200,000 in income taxes during your career from contributions.
-    You will avoid paying ~$800,000 in income taxes on the account when you retire.
+  By the end of the 30 years, you will have paid ~$200,000 in income taxes during your career from contributions.
+  You will avoid paying ~$800,000 in income taxes on the account when you retire.
 
-    Net taxes paid = ~$200,000
+  Net taxes paid = ~$200,000
 
-    ```
+  ```
 
-    Keep in mind if you have a good strategy with stocks & ETFs, you will likely see returns far greater than 8.5%. This would mean you would pay even more in income tax if this was in your traditional IRA.
-  </details>
+  Keep in mind if you have a good strategy with stocks & ETFs, you will likely see returns far greater than 8.5%. This would mean you would pay even more in income tax if this was in your traditional IRA.
+</details>
 
-  ### HSA
+### HSA
 
-  <details open="open">
-    <summary>HSA</summary>
+<details open="open">
+  <summary>HSA</summary>
 
-    <br />
-    If your health plan comes with an HSA, I strongly recommend you max it out. Best to see an HSA as an investment vehicle, rather than an account for medical expenses. HSA is more powerful than a traditional 401k, and should be treated as a secondary 401k. This would mean your emergency budget should be increased to account for your health plan deductible.
+  <br />
+  If your health plan comes with an HSA, I strongly recommend you max it out. Best to see an HSA as an investment vehicle, rather than an account for medical expenses. HSA is more powerful than a traditional 401k, and should be treated as a secondary 401k. This would mean your emergency budget should be increased to account for your health plan deductible.
 
-    * Only available if your health plan comes with it
-    * $3,600 annual contribution limit for 2021 ($4,600 if you're 55 or older, $7,200 if you have family coverage with the plan)
-    * It is taxed like a traditional 401k, except there is no taxes or penalty at any point for withdrawals for medical expenses
-    * No RMD
+  * Only available if your health plan comes with it
+  * $3,600 annual contribution limit for 2021 ($4,600 if you're 55 or older, $7,200 if you have family coverage with the plan)
+  * It is taxed like a traditional 401k, except there is no taxes or penalty at any point for withdrawals for medical expenses
+  * No RMD
 
-    ```yaml
-    HSA example
+  ```yaml
+  HSA example
 
-    Assumptions:
-    * You contribute $3,600 per year for 30 years. $108,000 total contributions
-    * +8.5% return per year
-    * Final balance after 30 years is ~$400,000
+  Assumptions:
+  * You contribute $3,600 per year for 30 years. $108,000 total contributions
+  * +8.5% return per year
+  * Final balance after 30 years is ~$400,000
 
-    You avoid ~$30,000 in income taxes over 30 years.
+  You avoid ~$30,000 in income taxes over 30 years.
 
-    If you withdraw:
-    * No income tax before or after retirement for medical expenses
-    * Before retirement, income tax + penalty for any other reason
-    * After retirement, just income tax for any other reason
+  If you withdraw:
+  * No income tax before or after retirement for medical expenses
+  * Before retirement, income tax + penalty for any other reason
+  * After retirement, just income tax for any other reason
 
-    ```
-  </details>
+  ```
+</details>
 </details>
 
 
@@ -224,15 +224,15 @@
 
   TODO
 
-  ### Asset Allocation
+### Asset Allocation
 
-  <details open="open">
-    <summary>Asset Allocation</summary>
+<details open="open">
+  <summary>Asset Allocation</summary>
 
-    <br />
+  <br />
 
-    TODO
-  </details>
+  TODO
+</details>
 </details>
 
 
