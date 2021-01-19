@@ -115,7 +115,7 @@
   * Don't forget to rollover your previous employer's 401k into your new 401k or IRA. The last thing you want to do is to withdraw from 10 different 401k accounts when you retire
   * Can only buy mutual funds. Can't buy stocks or ETFs unless you do a backdoor IRA. For a mutual fund, the safest route is to pick a Retirement Fund in the decade you plan to retire. More on how retirement funds work <a href="#asset-allocation">here</a>.
   * Mutual funds can be cheaper through your 401k than through your IRA
-  
+
   ```yaml
   Picking a Mutual Fund Example
 
@@ -321,25 +321,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Rain Fang (Yu-Chieh) - YCFang87@gmail.com
+214-228-4236
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Othneil Drew's Readme Example](https://github.com/othneildrew/Best-README-Template)
 
 
 
@@ -350,3 +340,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [rh-ref-url]: https://join.robinhood.com/yangtaf
 [img-Intraday-Volatility]: images/Intraday-Volatility.png
 [img-Webull-wma-rsi]: images/Webull-wma-rsi.png
+[linkedin-url]: https://www.linkedin.com/in/rain-fang
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
