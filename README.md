@@ -137,7 +137,9 @@ Below I will illustrate the differences between Traditional and Roth accounts wi
 ```yaml
 Traditional 401ks/IRAs Example
 
-By the end of the 30 years, you will have saved ~$200,000 in income taxes during your career, only to pay ~$800,000 in income taxes on the account when you retire.
+By the end of the 30 years, you will have avoided ~$200,000 in income taxes during your career.
+You will pay ~$800,000 in income taxes on the account when you retire.
+
 Net taxes paid = ~$600,000
 
 ```
@@ -146,7 +148,9 @@ Net taxes paid = ~$600,000
 ```yaml
 Roth 401ks/IRAs Example
 
-By the end of the 30 years, you will have paid ~$200,000 in income taxes during your career on your account contributions, but you will avoid paying ~$800,000 in income taxes on the account when you retire.
+By the end of the 30 years, you will have paid ~$200,000 in income taxes during your career from contributions.
+You will avoid paying ~$800,000 in income taxes on the account when you retire.
+
 Net taxes paid = ~$200,000
 
 ```
@@ -155,7 +159,7 @@ Keep in mind if you have a good strategy with stocks & ETFs, you will likely see
 
 ### HSA
 
-If your health plan comes with an HSA, I strongly recommend you max it out. Best to see an HSA as an investment vehicle, rather than an account for medical expenses. HSA is more powerful than a traditional 401k, and should be treated as a 2ndary 401k.
+If your health plan comes with an HSA, I strongly recommend you max it out. Best to see an HSA as an investment vehicle, rather than an account for medical expenses. HSA is more powerful than a traditional 401k, and should be treated as a 2ndary 401k. This would mean your emergency budget should be increased to account for your health plan deductible.
 
 * Only available if your health plan comes with it
 * $3,600 annual contribution limit for 2021 ($4,600 if you're 55 or older, $7,200 if you have family coverage with the plan)
