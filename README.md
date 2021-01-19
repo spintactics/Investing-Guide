@@ -109,6 +109,7 @@
   <summary>401k</summary>
 
   <br />
+
   * For those who want their money on autopilot
   * Only available through your employer
   * $19,500 annual contribution limit for 2021
@@ -131,6 +132,7 @@
   <summary>IRA</summary>
 
   <br />
+  
   * For those who want a more hands-on approach to their investing
   * $6,000 annual contribution limit for 2021 ($7,000 if you're 50 or older)
   * You can bypass the annual contribution limit by depositing money into the IRA directly from your 401k (rollover). This process is known as a "backdoor IRA". This is especially useful if you wanted to invest in stocks with your 401k money
