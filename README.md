@@ -325,6 +325,7 @@ Rain Fang (Yu-Chieh) - YCFang87@gmail.com
 <br />
 214-228-4236
 <br />
+<br />
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
