@@ -118,17 +118,65 @@ Picking a Mutual Fund Example
 * You can bypass the annual contribution limit by depositing money into the IRA directly from your 401k (rollover). This process is known as a "backdoor IRA". This is especially useful if you wanted to invest in stocks with your 401k money
 * The annual contribution limit is lower if you make more than $125,000/$198,000 single/married. You can't contribute at all if you make more than $140,000/$208,000
 * Can buy stocks, ETFs, mutual funds, bonds, CDs, and more
+* You can sell & buy stocks without incurring any capital gains tax in the account. This makes IRAs EXTREMELY powerful for those who continually buy & sell stocks & ETFs
 * Some recommended IRA providers: Ameritrade and Fidelity (especially if your 401k is with them). These providers do not have any trading fees, no matter what. If your 401k is already with Fidelity, doing a backdoor IRA does not incur a fee if your IRA is also with Fidelity
 
 
 
 ### Traditional or Roth
 
-TODO
+Both 401ks and IRAs come in 2 versions, traditional and roth. If you can max out all your retirement accounts, then you should be using a roth, and convert all your traditional retirement accounts into roth. Converting a traditional account to roth means you'll pay income tax on the amount converted. You can convert in phases.
+
+* Note that a traditional 401k/IRA has RMD, Required Minimum Distribution. This means that at the age of 72, you must liquidate the whole account within 10 years. Thus, if you have a large balance, you will skyrocket in tax bracket. If you pass on the account, they will also be subject to RMD. Roth has no such restrictions.
+
+Below I will illustrate the differences between Traditional and Roth accounts with some examples. Here are the assumptions we will make across both examples:
+* You contribute $20,000 per year for 30 years. $600,000 total contributions
+* +8.5% return per year
+* Final balance after 30 years is $2.4 million
+
+```yaml
+Traditional 401ks/IRAs Example
+
+By the end of the 30 years, you will have saved ~$200,000 in income taxes during your career, only to pay ~$800,000 in income taxes on the account when you retire.
+Net taxes paid = ~$600,000
+
+```
+
+
+```yaml
+Roth 401ks/IRAs Example
+
+By the end of the 30 years, you will have paid ~$200,000 in income taxes during your career on your account contributions, but you will avoid paying ~$800,000 in income taxes on the account when you retire.
+Net taxes paid = ~$200,000
+
+```
+
+Keep in mind if you have a good strategy with stocks & ETFs, you will likely see returns far greater than 8.5%. This would mean you would pay even more in income tax if this was in your traditional IRA.
 
 ### HSA
 
-TODO
+If your health plan comes with an HSA, I strongly recommend you max it out. Best to see an HSA as an investment vehicle, rather than an account for medical expenses. HSA is more powerful than a traditional 401k, and should be treated as a 2ndary 401k.
+
+* Only available if your health plan comes with it
+* $3,600 annual contribution limit for 2021 ($4,600 if you're 55 or older, $7,200 if you have family coverage with the plan)
+* It is taxed like a traditional 401k, except there is no taxes or penalty at any point for withdrawals for medical expenses
+* No RMD
+
+```yaml
+HSA example
+
+Assumptions:
+* You contribute $3,600 per year for 30 years. $108,000 total contributions
+* +8.5% return per year
+* Final balance after 30 years is ~$400,000
+
+You avoid $30,000 in income taxes over 30 years.
+If you withdraw:
+* No income tax before or after retirement for medical expenses
+* Before retirement, income tax + penalty for any other reason
+* After retirement, just income tax for any other reason
+
+```
 
 
 
