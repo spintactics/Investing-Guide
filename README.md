@@ -243,16 +243,16 @@ TODO
   ```
   * Can't withdraw the money as cash. Every expense needs a receipt, submitted to your employer's FSA provider
   * Can be used on a wide range of items, including:
-  <ul>
-    <li>Copays & Deductibles</li>
-    <li>Prescription medication</li>
-    <li>Insulin</li>
-    <li>Female hygiene products (such as pads)</li>
-    <li>Nursing supplies (including diapers)</li>
-    <li>Condoms & prescribed birth control</li>
-    <li>Lasik & PRK</li>
-    <li>A whole lot of others. Just google whatever you’re curious about</li>
-  </ul>
+  ```yaml
+  Copays & Deductibles
+  Prescription medication
+  Insulin
+  Female hygiene products (such as pads)
+  Nursing supplies (including diapers)
+  Condoms & prescribed birth control
+  Lasik & PRK
+  A whole lot of others. Just google whatever you’re curious about
+  ```
 
 </details>
 
