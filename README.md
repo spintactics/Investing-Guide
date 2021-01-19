@@ -232,7 +232,6 @@ TODO
   * $2,750 annual contribution limit for 2021. You will not pay income tax on contributions, like a traditional 401k or HSA
   * $550 will rollover for 2021. What that means is any amount over $550 in the FSA by the end of the year will be lost
   * Your company may have a grace period of up to 2.5 months. This means that for up to 2.5 months after the year you made FSA contributions, you can still spend the FSA money that didn't rollover
-  * Can't withdraw the money as cash. Every expense needs a receipt, submitted to your employer's FSA provider
 
   ```yaml
   Example of an FSA grace period
@@ -242,6 +241,7 @@ TODO
    that means that you can still use your 2021 FSA to cover the baby delivery.
 
   ```
+  * Can't withdraw the money as cash. Every expense needs a receipt, submitted to your employer's FSA provider
   * Can be used on a wide range of items, including:
   <ul>
     <li>Copays & Deductibles</li>
