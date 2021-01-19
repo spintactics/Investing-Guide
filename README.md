@@ -159,7 +159,7 @@ Keep in mind if you have a good strategy with stocks & ETFs, you will likely see
 
 ### HSA
 
-If your health plan comes with an HSA, I strongly recommend you max it out. Best to see an HSA as an investment vehicle, rather than an account for medical expenses. HSA is more powerful than a traditional 401k, and should be treated as a 2ndary 401k. This would mean your emergency budget should be increased to account for your health plan deductible.
+If your health plan comes with an HSA, I strongly recommend you max it out. Best to see an HSA as an investment vehicle, rather than an account for medical expenses. HSA is more powerful than a traditional 401k, and should be treated as a secondary 401k. This would mean your emergency budget should be increased to account for your health plan deductible.
 
 * Only available if your health plan comes with it
 * $3,600 annual contribution limit for 2021 ($4,600 if you're 55 or older, $7,200 if you have family coverage with the plan)
