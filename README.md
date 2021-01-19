@@ -125,9 +125,9 @@ Picking a Mutual Fund Example
 
 ### Traditional or Roth
 
-Both 401ks and IRAs come in 2 versions, traditional and roth. If you can max out all your retirement accounts, then you should be using a roth, and convert all your traditional retirement accounts into roth. Converting a traditional account to roth means you'll pay income tax on the amount converted. You can convert in phases.
+Both 401ks and IRAs come in 2 versions, traditional and roth. If you can max out all your retirement accounts, then you should be using a roth, and convert all your traditional retirement accounts into roth. Converting a traditional account to roth means you'll pay income tax on the amount converted. You can convert in phases if you can't afford the income tax of the full conversion at once.
 
-* Note that a traditional 401k/IRA has RMD, Required Minimum Distribution. This means that at the age of 72, you must liquidate the whole account within 10 years. Thus, if you have a large balance, you will skyrocket in tax bracket. If you pass on the account, they will also be subject to RMD. Roth has no such restrictions.
+* Note that a traditional 401k/IRA has RMD, Required Minimum Distribution. This means that at the age of 72, you must liquidate the whole account within 10 years. Thus, if you have a large balance, you will skyrocket in tax bracket. If someone else inherits your account, they will also be subject to RMD. Roth has no such restrictions.
 
 Below I will illustrate the differences between Traditional and Roth accounts with some examples. Here are the assumptions we will make across both examples:
 * You contribute $20,000 per year for 30 years. $600,000 total contributions
