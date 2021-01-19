@@ -322,7 +322,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Rain Fang (Yu-Chieh) - YCFang87@gmail.com
+<br />
 214-228-4236
+<br />
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
