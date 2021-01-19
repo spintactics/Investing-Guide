@@ -221,7 +221,35 @@ TODO
 <!-- FSA -->
 ## FSA
 
-TODO
+<details open="open">
+  <summary>FSA</summary>
+  FSA is an account for health related expenses. Unlike the HSA, though, you can't invest it and you will lose money at the end of the year if you don't use it.
+
+  * $2,750 annual contribution limit for 2021. You will not pay income tax on contributions, like a traditional 401k or HSA
+  * $550 will rollover for 2021. What that means is any amount over $550 in the FSA by the end of the year will be lost
+  * Your company may have a grace period of up to 2.5 months. This means that for up to 2.5 months after the year you made FSA contributions, you can still spend the FSA money that didn't rollover
+
+  ```yaml
+  Example of an FSA grace period
+
+  Your baby due date is December 2021, so you put money into your FSA to cover the deductible/copay.
+  Your baby ended up coming in January 2022. If your company has a grace period,
+   that means that you can still use your 2021 FSA to cover the baby delivery.
+
+  ```
+  * Can be used on a wide range of items, including:
+  <ul>
+    <li>Copays & Deductibles</li>
+    <li>Prescription medication</li>
+    <li>Insulin</li>
+    <li>Female hygiene products (such as pads)</li>
+    <li>Nursing supplies (including diapers)</li>
+    <li>Condoms & prescribed birth control</li>
+    <li>Lasik & PRK</li>
+    <li>A whole lot of others. Just google whatever you’re curious about</li>
+  </ul>
+
+</details>
 
 
 
