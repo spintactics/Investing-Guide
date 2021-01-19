@@ -79,6 +79,7 @@
 ## Overview
 
 <details open="open">
+  <summary>Overview</summary>
   <a href="#retirement-investing">Retirement Investing</a>
   <br />
   Retirement investing is by far the most efficient way to invest. The downside is that the money is best left untouched until age 55/59.5. This will cover various kinds of retirement investment accounts.
