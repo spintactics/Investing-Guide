@@ -120,7 +120,9 @@
   ```yaml
   Picking a Mutual Fund Example
 
-  You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050". If you are retiring in 2055, then you could go with 2050 if you want to be safer, or 2060 if you want to be greedier and riskier.
+  You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050".
+  If you are retiring in 2055, then you could go with 2050 if you want to be safer,
+   or 2060 if you want to be greedier and riskier.
 
   ```
 
