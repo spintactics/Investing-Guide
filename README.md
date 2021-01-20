@@ -518,7 +518,7 @@ Rain Fang (Yu-Chieh) - YCFang87@gmail.com
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [rh-ref-url]: https://join.robinhood.com/yangtaf
-[img-Intraday-Volatility]: images/Intraday-Volatility.png
+[img-Intraday-Volatility]: images/Intraday-Volatility.jpg
 [img-Webull-wma-rsi]: images/Webull-wma-rsi.png
 [linkedin-url]: https://www.linkedin.com/in/rain-fang
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
