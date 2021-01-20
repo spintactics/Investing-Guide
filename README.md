@@ -443,12 +443,52 @@
   * By checking in the final hour, we can see that the price is not only stable, but that the day ended in a 2% gain
 
   ```
-  WMA
+  WMA - Weighted Moving Average
   ```
+  The [WMA][wma-url] answers the question "Is this stock doing well?"
+
+  * The WMA has a time component. Recommended to start with the 35-day WMA. Use a longer WMA for stocks you plan to hold for longer, and shorter for faster cycle trades
+  * If the current price of the stock is above the WMA, the stock is doing well
+  * If the current price of the stock is below the WMA, the stock is doing poorly
+
+  In the [WMA][wma-url] example:
+  * WMA is the red line
+  * Rectangles represent the prices of the day. Green means a daily gain, red means a daily loss. The top of the rectangle is the opening price if it was a loss, and the closing price if it was a gain. Conversely, the bottom of the rectangle is the closing price if it was a loss, and the opening price if it was a gain.
+  * The vertical lines extended from both ends of the rectangle are known as "tails". These represent the maximum and minimum price of the stock during that day
+  * This graph is also known as a candle-stick graph
+
 
   ```
-  RSI
+  RSI - Relative Strength Index
   ```
+  The [RSI][rsi-url] answers the question "Is this stock hyped up or down?". You want to sell a stock while it is "hyped up", because not only is it a gain, but the price will probably fall sharply soon.
+
+  You want to buy a stock if it is BOTH doing well and not hyped up.
+
+  * The RSI has a time component, just like WMA. Recommended to start with the 35-day. Ideal to match the RSI time with the WMA time
+  * 50 RSI is considered neutral
+  * 70 RSI or higher is considered very overhyped. If the stock is here, consider selling soon. There is usually a sharp price drop after a stock hits 70 RSI
+  * 30 RSI or lower is considered very underhyped. You shouldn't wait for a stock to be here to buy. Stocks have often shown recovery before it falls this low.
+
+  In the [RSI][rsi-url] example:
+  * The bottom graph is the RSI
+  * Note how the time the stock spends above 70 RSI is shaded grey. Notice how hard & soon the RSI & price fall after hitting 70 RSI
+  * Note how the time the stock spends under 30 RSI is shaded red
+  * You can change the RSI time component to 35-days on the upper-right hand side of the page. You can also add the WMA in there, via "Add Indicators"
+
+  ```
+  How I combine the WMA & RSI
+  ```
+  I trade [TQQQ][tqqq-url]. TQQQ is a triple-leverage version of the NASDAQ 100 (QQQ). What triple leverage means is that it gets triple the gains, but triple the losses. Based on thousands of simulations of random entry and exit points over the past 5 years of data, this is the strategy [Jason][jason-url] and I personally use.
+
+  The strategy is simple:
+  * Buy as much TQQQ as you safely can if BOTH the closing price of QQQ is greater than the 35d WMA (doing well) and it's under the 35d RSI (not overhyped)
+  * Sell all TQQQ shares if EITHER the closing price of QQQ is less than the 35d WMA (doing bad) or the 35d RSI is 70 or higher
+  * This same strategy can be applied to almost any stock. I've done it on others and successfully beaten the performance of just holding it
+
+  To track the WMA & RSI, I strongly recommend either [current charts][rsi-url] or Webull mobile. On most days, I just check this one screen below and I'm done, unless I need to sell or buy.
+
+  <img src="images/Webull-wma-rsi.jpg" alt="webull" width="300" height="450">
 
 </details>
 </details>
@@ -519,7 +559,7 @@ Rain Fang (Yu-Chieh) - YCFang87@gmail.com
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [rh-ref-url]: https://join.robinhood.com/yangtaf
 [img-Intraday-Volatility]: images/Intraday-Volatility.jpg
-[img-Webull-wma-rsi]: images/Webull-wma-rsi.png
+[img-Webull-wma-rsi]: images/Webull-wma-rsi.jpg
 [linkedin-url]: https://www.linkedin.com/in/rain-fang
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [jason-url]: http://www.jsntsay.com/
@@ -529,3 +569,6 @@ Rain Fang (Yu-Chieh) - YCFang87@gmail.com
 [work-url]: https://www.google.com/search?q=WORK+stock&oq=WORK+stock&aqs=chrome..69i57j0i271.1903j0j9&sourceid=chrome&ie=UTF-8
 [tsla-url]: https://www.google.com/search?q=TSLA&oq=TSLA&aqs=chrome..69i57j0i271l3j69i60l3.9649j0j9&sourceid=chrome&ie=UTF-8
 [ge-url]: https://www.google.com/search?q=ge+stock&oq=GE+stock&aqs=chrome.0.69i59j0i271j69i60.1326j0j1&sourceid=chrome&ie=UTF-8
+[wma-url]: https://www.barchart.com/etfs-funds/quotes/QQQ/technical-chart?plot=CANDLE&volume=total&data=DO&density=ML&pricesOn=1&asPctChange=0&logscale=0&indicators=WMA(35)&sym=QQQ&grid=1&height=500&studyheight=100
+[rsi-url]: https://currentcharts.com/charts/qqq-rsi-f89ca2564y2y4u2f1
+[tqqq-url]: https://www.google.com/search?q=tqqq&oq=tqqq&aqs=chrome..69i57j69i60.983j0j1&sourceid=chrome&ie=UTF-8
