@@ -373,7 +373,7 @@
   ```
   What is the financial breakdown of the company?
   ```
-  When Disney (DIS) announced they were making Disney+, I waited for a Disney stock dip and bought some shares. I did research, but not enough. My research showed that Disney owned over 50% of the global box office, and I predicted that Disney+ would shred Netflix's market share. When Disney+ launched, my disney shares were up. I made 15% net total on my Disney shares!
+  When Disney ([DIS][dis-url]) announced they were making Disney+, I waited for a Disney stock dip and bought some shares. I did research, but not enough. My research showed that Disney owned over 50% of the global box office, and I predicted that Disney+ would shred Netflix's market share. When Disney+ launched, my Disney shares were up. I made +15% net total on my Disney shares!
 
   But the problem was the market (SP500/SPY) was up 25% during that whole time I had Disney shares. When I looked at Disney's financial breakdown, only 10% of their revenue was in home media. Majority of their revenue was from theme parks and in-theater movie showings.
 
@@ -384,13 +384,35 @@
   ```
   Is this IPO day? \\ Is this company profitable? \\ Who are the competitors?
   ```
-  When Slack (WORK) went public, I bought shares because every job I've had has used Slack, and I enjoy using their product. I bought shares on IPO day. This was my first mistake. Shares almost always slide in price over the next few weeks after IPO, as hype dies down. If a company you're excited for IPOs, track it, and wait a few days. You'll almost always get a discounted price if you wait a few days or weeks.
+  When Slack ([WORK][work-url]) went public, I bought shares because every job I've had has used Slack, and I enjoy using their product. I bought shares on IPO day. This was my first mistake. Shares almost always slide in price over the next few weeks after IPO, as hype dies down. If a company you're excited for IPOs, track it, and wait a few days. You'll almost always get a discounted price if you wait a few days or weeks.
 
   Second mistake I made, I didn't check the company's profitability. Slack was heavily in debt, and very much negative cash flow. Their shares lost half their value since IPO in a matter of a few months.
 
   Third mistake I made, I didn't check their competitors. Slack's competitor was Microsoft's Team. But Microsoft has much deeper penetration in the enterprise communication market due to their long history with several big companies and organizations (like the federal government)
 
   Even though I was familiar with their product and believed in it, I lost money on Slack.
+
+  Do your research thoroughly
+
+  ```
+  Is this company profitable? \\ Do they have any outstanding debts? \\ When are their debts due?
+  ```
+  In Janury 2018, Tesla ([TSLA][tsla-url]) was one of the hottest stocks. But if you had bought TSLA at this time, by May 2019, you would've lost half the money you put in.
+
+  Why?
+
+  * Tesla was not profitable
+  * Tesla had been taking loans for over 7 years
+  * In January 2018, those debts were being called in by Tesla's creditors
+
+  Do your research thoroughly
+
+  ```
+  You can't hold onto a stock forever, hoping for the best
+  ```
+  In 2000, General Electric ([GE][ge-url]) was one of the 10 most valuable companies in the USA. It was one of the original 12 stocks that formed the Dow Jones Industrial Average, back in 1896. In 2018, GE was removed from the Dow, after losing over 80% of it's valuation in less than 2 decades.
+
+  You can't blindly buy a stock, even if it's a "safe stock", and think decades from now, it'll be worth more. Every stock you buy for the long term must be thoroughly vetted.
 
   Do your research thoroughly
 </details>
@@ -480,3 +502,7 @@ Rain Fang (Yu-Chieh) - YCFang87@gmail.com
 [jason-url]: http://www.jsntsay.com/
 [spy-url]: https://www.google.com/search?q=SPY&rlz=1C1CHBF_enUS746US746&oq=SPY&aqs=chrome..69i57j0i271l3j69i60.507j0j1&sourceid=chrome&ie=UTF-8
 [qqq-url]: https://www.google.com/search?q=QQQ&rlz=1C1CHBF_enUS746US746&oq=QQQ&aqs=chrome..69i57j69i59l3j69i60l3j69i65.581j0j1&sourceid=chrome&ie=UTF-8
+[dis-url]: https://www.google.com/search?q=DIS&oq=DIS&aqs=chrome..69i57j0i271l3j69i60j69i61.647j0j1&sourceid=chrome&ie=UTF-8
+[work-url]: https://www.google.com/search?q=WORK+stock&oq=WORK+stock&aqs=chrome..69i57j0i271.1903j0j9&sourceid=chrome&ie=UTF-8
+[tsla-url]: https://www.google.com/search?q=TSLA&oq=TSLA&aqs=chrome..69i57j0i271l3j69i60l3.9649j0j9&sourceid=chrome&ie=UTF-8
+[ge-url]: https://www.google.com/search?q=GE&oq=GE&aqs=chrome..69i57j69i59j0i271l3j69i60l2.616j0j1&sourceid=chrome&ie=UTF-8
