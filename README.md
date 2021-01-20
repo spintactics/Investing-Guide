@@ -436,17 +436,11 @@
   ```
   Example of why the closing hour window is important
   ```
-  <p align="center">
-    <p align="left">
-      <img src="images/Intraday-Volatility.jpg" alt="Intraday-Volatility" width="300" height="450">
-    </p>
+  <img src="images/Intraday-Volatility.jpg" alt="Intraday-Volatility" width="300" height="450">
 
-    <p align="right">
-      * If your daily check on this stock was in the morning, you would think the stock was soaring to the moon. You may even make some poor choices, based on the sharp rise
-      * If your daily check was in the later half of the day, where it had a sharp drop, you would think the stock was crashing. You may even make some poor choices, based on the sharp fall
-      * By checking in the final hour, we can see that the price is not only stable, but that the day ended in a 2% gain
-    </p>
-  </p>
+  * If your daily check on this stock was in the morning, you would think the stock was soaring to the moon. You may even make some poor choices, based on the sharp rise
+  * If your daily check was in the later half of the day, where it had a sharp drop, you would think the stock was crashing. You may even make some poor choices, based on the sharp fall
+  * By checking in the final hour, we can see that the price is not only stable, but that the day ended in a 2% gain
 
   ```
   WMA
