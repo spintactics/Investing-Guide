@@ -55,7 +55,14 @@
     <li>
       <a href="#taxable-investing">Retirement Investing</a>
       <ul>
-        <li><a href="#asset-allocation">Asset Allocation</a></li>
+        <li><a href="#passive-investing">Passive Investing</a></li>
+        <li>
+          <a href="#active-investing-with-minimal-checking">Active Investing With Minimal Checking</a>
+          <ul>
+            <li><a href="#asset-allocation">Asset Allocation</a></li>
+          </ul>
+        </li>
+        <li><a href="#active-investing-with-daily-checking">Active Investing With Daily Checking</a></li>
       </ul>
     </li>
     <li>
@@ -79,6 +86,7 @@
   <br />
   <br />
   <a href="#taxable-investing">Taxable Investing</a> is the most varied of investing. Money goes here if:
+
   * Your timetable for withdrawing money is before retirement age
   * You already maxed out your retirement accounts
   This section will cover various strategies for taxable investing.
@@ -217,12 +225,73 @@
 
   <br />
 
+  There are 3 main approaches I recommend, depending on how much time you can spend managing your portfolio
+
+### Passive Investing
+
+<details open="open">
+  <summary>Passive Investing</summary>
+
+  <br />
+
+  This strategy is great if you:
+
+  * Don't ever want to check your portfolio
+  * Have a timeline of at least a few years
+
+  I would buy either [SP500][spy-url] or [NASDAQ][qqq-url]. Comparison below:
+  ```yaml
+  S&P 500 (SPY, VOO)
+
+  SP500 is the top 500 US companies by valuation. They are represented by the ETFs SPY and VOO.
+  There are other SP500 ETFs, but they all move the same. They're all ETFs of the same 500 companies.
+
+  * When people talk about "the market", this is what they mean.
+  * SP500 is diversified, and includes a wide range of companies and sectors from tech, to medical.
+  * When one company in the SP500 slips out, another will be promoted in
+  * It’s been going up long term for over 100 years
+  * Buying SP500 is essentially a vote of confidence for the American Economy
+
+  ```
+  
+  ```yaml
+  NASDAQ 100 (QQQ)
+
+  NASDAQ 100 is the top 100 North-American non-financial firms, by valuation. They are represented by the ETF QQQ.
+
+  * Currently, NASDAQ is very "tech-heavy"
+  * It is less diversified than the SP500, but it's been out-performing the SP500 for over 10 years
+  * Just like the SP500, it will reevaluate once a year and adjust holdings based on current valuations
+
+  ```
+</details>
+
+### Active Investing With Minimal Checking
+
+<details open="open">
+  <summary>Active Investing With Minimal Checking</summary>
+
+  <br />
+
   TODO
 
-### Asset Allocation
+
+#### Asset Allocation
 
 <details open="open">
   <summary>Asset Allocation</summary>
+
+  <br />
+
+  TODO
+</details>
+</details>
+
+
+### Active Investing With Daily Checking
+
+<details open="open">
+  <summary>Active Investing With Daily Checking</summary>
 
   <br />
 
@@ -298,3 +367,5 @@ Rain Fang (Yu-Chieh) - YCFang87@gmail.com
 [img-Webull-wma-rsi]: images/Webull-wma-rsi.png
 [linkedin-url]: https://www.linkedin.com/in/rain-fang
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[spy-url]: https://www.google.com/search?q=SPY&rlz=1C1CHBF_enUS746US746&oq=SPY&aqs=chrome..69i57j0i271l3j69i60.507j0j1&sourceid=chrome&ie=UTF-8
+[qqq-url]: https://www.google.com/search?q=QQQ&rlz=1C1CHBF_enUS746US746&oq=QQQ&aqs=chrome..69i57j69i59l3j69i60l3j69i65.581j0j1&sourceid=chrome&ie=UTF-8
