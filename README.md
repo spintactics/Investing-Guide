@@ -382,6 +382,7 @@
 
   Do your research thoroughly
 
+
   ```
   Is this IPO day? \\ Is this company profitable? \\ Who are the competitors?
   ```
@@ -394,6 +395,7 @@
   Even though I was familiar with their product and believed in it, I lost money on Slack.
 
   Do your research thoroughly
+
 
   ```
   Is this company profitable? \\ Do they have any outstanding debts? \\ When are their debts due?
@@ -408,6 +410,7 @@
 
   Do your research thoroughly
 
+
   ```
   You can't hold onto a stock forever, hoping for the best
   ```
@@ -416,6 +419,7 @@
   You can't blindly buy a stock, even if it's a "safe stock", and think decades from now, it'll be worth more. Every stock you buy for the long term must be thoroughly vetted. You must continue to track it and know when to give up.
 
   Do your research thoroughly
+  
 </details>
 </details>
 
