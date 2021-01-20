@@ -505,4 +505,4 @@ Rain Fang (Yu-Chieh) - YCFang87@gmail.com
 [dis-url]: https://www.google.com/search?q=DIS&oq=DIS&aqs=chrome..69i57j0i271l3j69i60j69i61.647j0j1&sourceid=chrome&ie=UTF-8
 [work-url]: https://www.google.com/search?q=WORK+stock&oq=WORK+stock&aqs=chrome..69i57j0i271.1903j0j9&sourceid=chrome&ie=UTF-8
 [tsla-url]: https://www.google.com/search?q=TSLA&oq=TSLA&aqs=chrome..69i57j0i271l3j69i60l3.9649j0j9&sourceid=chrome&ie=UTF-8
-[ge-url]: https://www.google.com/search?q=GE&oq=GE&aqs=chrome..69i57j69i59j0i271l3j69i60l2.616j0j1&sourceid=chrome&ie=UTF-8
+[ge-url]: https://www.google.com/search?q=ge+stock&oq=GE+stock&aqs=chrome.0.69i59j0i271j69i60.1326j0j1&sourceid=chrome&ie=UTF-8
