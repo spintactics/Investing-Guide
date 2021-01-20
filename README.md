@@ -60,6 +60,7 @@
           <a href="#active-investing-with-minimal-checking">Active Investing With Minimal Checking</a>
           <ul>
             <li><a href="#asset-allocation">Asset Allocation</a></li>
+            <li><a href="#stock-picking-to-hold">Stock Picking To Hold</a></li>
           </ul>
         </li>
         <li><a href="#active-investing-with-daily-checking">Active Investing With Daily Checking</a></li>
@@ -89,6 +90,7 @@
 
   * Your timetable for withdrawing money is before retirement age
   * You already maxed out your retirement accounts
+
   This section will cover various strategies for taxable investing.
 
   <br />
@@ -119,7 +121,7 @@
   * Mutual funds can be cheaper through your 401k than through your IRA
 
   ```yaml
-  Picking a Mutual Fund Example
+  <-- Picking a Mutual Fund Example
 
   You plan to retire in 2050. Go with a mutual fund that looks like "Retirement Fund 2050".
   If you are retiring in 2055, then you could go with 2050 if you want to be safer,
@@ -161,7 +163,7 @@
   * Final balance after 30 years is $2.4 million
 
   ```yaml
-  Traditional 401ks/IRAs Example
+  <-- Traditional 401ks/IRAs Example
 
   By the end of the 30 years, you will have avoided ~$200,000 in income taxes during your career.
   You will pay ~$800,000 in income taxes on the account when you retire.
@@ -172,7 +174,7 @@
 
 
   ```yaml
-  Roth 401ks/IRAs Example
+  <-- Roth 401ks/IRAs Example
 
   By the end of the 30 years, you will have paid ~$200,000 in income taxes during your career from contributions.
   You will avoid paying ~$800,000 in income taxes on the account when you retire.
@@ -198,7 +200,7 @@
   * No RMD
 
   ```yaml
-  HSA example
+  <-- HSA example
 
   Assumptions:
   * You contribute $3,600 per year for 30 years. $108,000 total contributions
@@ -241,7 +243,7 @@
 
   I would buy either [SP500][spy-url] or [NASDAQ][qqq-url]. Comparison below:
   ```yaml
-  S&P 500 (SPY, VOO)
+  <-- S&P 500 (SPY, VOO)
 
   SP500 is the top 500 US companies by valuation. They are represented by the ETFs SPY and VOO.
   There are other SP500 ETFs, but they all move the same. They're all ETFs of the same 500 companies.
@@ -255,7 +257,7 @@
   ```
   
   ```yaml
-  NASDAQ 100 (QQQ)
+  <-- NASDAQ 100 (QQQ)
 
   NASDAQ 100 is the top 100 North-American non-financial firms, by valuation.
   They are represented by the ETF QQQ.
@@ -275,13 +277,72 @@
 
   <br />
 
-  TODO
+  This is for you if you want more returns in exchange for checking your portfolio periodically or following the companies that you have stocks with
 
 
 #### Asset Allocation
 
 <details open="open">
   <summary>Asset Allocation</summary>
+
+  <br />
+
+  This is the strategy that financial advisors and retirement funds in your 401k, IRA, and HSA are using. At a high-level, Asset Allocation is where you decide each asset (stocks, ETFs, cash, real estate, etc) will occupy a set percentage of your overall portfolio. When an asset rises or falls below the percentage you set, you will sell & buy until all assets are as close to your original designated percentages as possible. This is known as "rebalancing". A common used threshold to trigger rebalancing is 5%. This threshold is called "deviation percentage".
+
+  * 50% stocks, 50% bonds is a common Asset Allocation used by financial advisors, for those with a long timeline
+  * If you choose to let a financial advisor or mutual fund to manage it for you, they will charge you a percentage of the portfolio every year to manage it for you. Even if they lose you money, they will still collect the "management fee"
+
+  ```yaml
+  <-- Asset Allocation Example
+
+  Assumptions:
+  * 50% stocks (QQQ), 50% bonds (BND)
+  * Bonds value will remain unchanged. This is mostly true. The most the bond ETF BND changed
+   was less than 10% during the covid recession
+  * Deviation percentage set to 5%.  This means we won't rebalance until we see an asset
+   reach 55%+, or fall 45%-
+  
+  Timeline:
+  * You invest $100. $50 of it goes into QQQ. $50 goes into bonds
+  * QQQ drops 2%. You now have $49 of QQQ, and $50 in BND. 49/99 = 49% > 45%. Don’t rebalance
+  * 1 month later, QQQ drops 30% during the covid recession. Your portfolio is now $35 QQQ, $50 in BND.
+   (35/85 = 41% < 45%). Rebalance. Sell some BND, buy some QQQ, until you’re back to an even
+   50-50 split ($42.50 QQQ- $42.50 BND)
+  * 2 months later, QQQ recovers back to the original price. You now have $60.71 in QQQ, $42.50 in BND.
+   Your portfolio is now at $103.21, even though QQQ is at the same price as when you first started.
+   You’re up 3.21%!
+   But QQQ is now 59% of your portfolio (60.71 / 103.21). You should now rebalance and lock in your gains.
+   You will end up with $51.60 QQQ - $51.60 BND
+  
+  This example used the real covid & QQQ percentages & timeline. 7 months after QQQ recovered from the covid
+   recession, QQQ is now 35% higher than the original price at the start of this example.
+  
+  If you're too lazy to do basic math, most trading apps/sites will give you a pie-chart with percentages
+   and numbers. So you can just check that pie-chart for when you need to rebalance.
+
+  ```
+
+  Retirement Funds use Asset Allocation, but with a twist.
+  * If the Retirement Mutual Fund is 30 years out, the asset allocation will be around 60% stocks, 40% bonds
+  * As time goes on, the percentage of bonds will go up
+  * By the time the Retirement Mutual Fund's target year has arrived, the fund is close to 100% bonds
+  * It is designed this way so that if the market crashes the year you retired, most of your portfolio is protected
+
+  Below are some examples of different asset allocations you can choose:
+  ```yaml
+  <-- Examples of Asset Allocations
+
+  * 50% SPY - 50% cash
+  * 25% SPY - 25% QQQ - 50% gold
+  * 10% GOOG - 10% AAPL - 10% NFLX - 10% TSLA - 10% AMZN - 50% BND
+  * 25% QQQ - 15% AMZN - 10% bitcoin - 10% BND - 10% cash - 30% real estate (the value of your investment properties)
+  ```
+</details>
+
+#### Stock Picking To Hold
+
+<details open="open">
+  <summary>Stock Picking To Hold</summary>
 
   <br />
 
@@ -318,7 +379,7 @@
   * Your company may have a grace period of up to 2.5 months. This means that for up to 2.5 months after the year you made FSA contributions, you can still spend the FSA money that didn't rollover
 
   ```yaml
-  Example of an FSA grace period
+  <-- Example of an FSA grace period
 
   Your baby due date is December 2021, so you put money into your FSA to cover the deductible/copay.
   Your baby ended up coming in January 2022. If your company has a grace period,
@@ -356,6 +417,7 @@ Rain Fang (Yu-Chieh) - YCFang87@gmail.com
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+* [My Investing Study Buddy - Jason Tsay][jason-url]
 * [Othneil Drew's Readme Example](https://github.com/othneildrew/Best-README-Template)
 
 
@@ -369,5 +431,6 @@ Rain Fang (Yu-Chieh) - YCFang87@gmail.com
 [img-Webull-wma-rsi]: images/Webull-wma-rsi.png
 [linkedin-url]: https://www.linkedin.com/in/rain-fang
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[jason-url]: http://www.jsntsay.com/
 [spy-url]: https://www.google.com/search?q=SPY&rlz=1C1CHBF_enUS746US746&oq=SPY&aqs=chrome..69i57j0i271l3j69i60.507j0j1&sourceid=chrome&ie=UTF-8
 [qqq-url]: https://www.google.com/search?q=QQQ&rlz=1C1CHBF_enUS746US746&oq=QQQ&aqs=chrome..69i57j69i59l3j69i60l3j69i65.581j0j1&sourceid=chrome&ie=UTF-8
