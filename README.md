@@ -246,8 +246,8 @@
   SP500 is the top 500 US companies by valuation. They are represented by the ETFs SPY and VOO.
   There are other SP500 ETFs, but they all move the same. They're all ETFs of the same 500 companies.
 
-  * When people talk about "the market", this is what they mean.
-  * SP500 is diversified, and includes a wide range of companies and sectors from tech, to medical.
+  * When people talk about "the market", this is what they mean
+  * SP500 is diversified, and includes a wide range of companies and sectors from tech, to medical
   * When one company in the SP500 slips out, another will be promoted in
   * It’s been going up long term for over 100 years
   * Buying SP500 is essentially a vote of confidence for the American Economy
