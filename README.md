@@ -436,7 +436,7 @@
   ```
   Example of why the closing hour window is important
   ```
-  <img src=[img-Intraday-Volatility] alt="Logo" width="80" height="80">
+  [![Intraday Volatility][img-Intraday-Volatility]]
   
   * If your daily check on this stock was in the morning, you would think the stock was soaring to the moon. You may even make some poor choices, based on the sharp rise
   * If your daily check was in the later half of the day, where it had a sharp drop, you would think the stock was crashing. You may even make some poor choices, based on the sharp fall
