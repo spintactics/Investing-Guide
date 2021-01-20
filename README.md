@@ -381,7 +381,7 @@
   Even though I did do research, and bought Disney at a discount, I didn't beat the market.
 
   Do your research thoroughly
-
+  <br />
 
   ```
   Is this IPO day? \\ Is this company profitable? \\ Who are the competitors?
@@ -395,7 +395,7 @@
   Even though I was familiar with their product and believed in it, I lost money on Slack.
 
   Do your research thoroughly
-
+  <br />
 
   ```
   Is this company profitable? \\ Do they have any outstanding debts? \\ When are their debts due?
@@ -409,7 +409,7 @@
   * In January 2018, those debts were being called in by Tesla's creditors
 
   Do your research thoroughly
-
+  <br />
 
   ```
   You can't hold onto a stock forever, hoping for the best
@@ -419,7 +419,7 @@
   You can't blindly buy a stock, even if it's a "safe stock", and think decades from now, it'll be worth more. Every stock you buy for the long term must be thoroughly vetted. You must continue to track it and know when to give up.
 
   Do your research thoroughly
-  
+  <br />
 </details>
 </details>
 
@@ -445,6 +445,7 @@
   * If your daily check on this stock was in the morning, you would think the stock was soaring to the moon. You may even make some poor choices, based on the sharp rise
   * If your daily check was in the later half of the day, where it had a sharp drop, you would think the stock was crashing. You may even make some poor choices, based on the sharp fall
   * By checking in the final hour, we can see that the price is not only stable, but that the day ended in a 2% gain
+  <br />
 
   ```
   WMA - Weighted Moving Average
@@ -479,6 +480,7 @@
   * Note how the time the stock spends above 70 RSI is shaded grey. Notice how hard & soon the RSI & price fall after hitting 70 RSI
   * Note how the time the stock spends under 30 RSI is shaded red
   * You can change the RSI time component to 35-days on the upper-right hand side of the page. You can also add the WMA in there, via "Add Indicators"
+  <br />
 
   ```
   How I combine the WMA & RSI
