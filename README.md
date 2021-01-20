@@ -287,10 +287,12 @@
 
   <br />
 
-  This is the strategy that financial advisors and retirement funds in your 401k, IRA, and HSA are using. At a high-level, Asset Allocation is where you decide each asset (stocks, ETFs, cash, real estate, etc) will occupy a set percentage of your overall portfolio. When an asset rises or falls below the percentage you set, you will sell & buy until all assets are as close to your original designated percentages as possible. This is known as "rebalancing". A common used threshold to trigger rebalancing is 5%. This threshold is called "deviation percentage".
+  This is the strategy that financial advisors and retirement funds in your 401k, IRA, and HSA are using.
+  
+  At a high-level, Asset Allocation is when you decide each asset (stocks, ETFs, cash, real estate, etc) will occupy a set percentage of your overall portfolio. When an asset rises or falls below the percentage you set, you will sell & buy until all assets are as close to your original designated percentages as possible. This is known as "rebalancing". A common used threshold to trigger rebalancing is 5%. This threshold is called "deviation percentage".
 
   * 50% stocks, 50% bonds is a common Asset Allocation used by financial advisors, for those with a long timeline
-  * If you choose to let a financial advisor or mutual fund to manage it for you, they will charge you a percentage of the portfolio every year to manage it for you. Even if they lose you money, they will still collect the "management fee"
+  * If you choose to let a financial advisor or mutual fund to manage it for you, they will charge you a percentage of the portfolio every year to manage it for you. Even if they lose you money, they will still collect the "management fee". Financial advisors commonly charge 1% per year.
 
   ```yaml
   <-- Asset Allocation Example
@@ -311,14 +313,14 @@
   * 2 months later, QQQ recovers back to the original price. You now have $60.71 in QQQ, $42.50 in BND.
    Your portfolio is now at $103.21, even though QQQ is at the same price as when you first started.
    You’re up 3.21%!
-   But QQQ is now 59% of your portfolio (60.71 / 103.21). You should now rebalance and lock in your gains.
-   You will end up with $51.60 QQQ - $51.60 BND
+   But QQQ is now 59% of your portfolio (60.71 / 103.21). You should now rebalance and lock in your
+    gains. You will end up with $51.60 QQQ - $51.60 BND
   
-  This example used the real covid & QQQ percentages & timeline. 7 months after QQQ recovered from the covid
-   recession, QQQ is now 35% higher than the original price at the start of this example.
+  This example used the real covid & QQQ percentages & timeline. 7 months after QQQ recovered from the
+   covid recession, QQQ is now 35% higher than the original price at the start of this example.
   
-  If you're too lazy to do basic math, most trading apps/sites will give you a pie-chart with percentages
-   and numbers. So you can just check that pie-chart for when you need to rebalance.
+  If you're too lazy to do basic math, most trading apps/sites will give you a pie-chart with
+   percentages and numbers. So you can just check that pie-chart for when you need to rebalance.
 
   ```
 
@@ -326,7 +328,7 @@
   * If the Retirement Mutual Fund is 30 years out, the asset allocation will be around 60% stocks, 40% bonds
   * As time goes on, the percentage of bonds will go up
   * By the time the Retirement Mutual Fund's target year has arrived, the fund is close to 100% bonds
-  * It is designed this way so that if the market crashes the year you retired, most of your portfolio is protected
+  * It is designed this way so that if the market crashes the year you retire, most of your money there is protected
 
   Below are some examples of different asset allocations you can choose:
   ```yaml
