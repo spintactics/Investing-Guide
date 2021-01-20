@@ -257,11 +257,13 @@
   ```yaml
   NASDAQ 100 (QQQ)
 
-  NASDAQ 100 is the top 100 North-American non-financial firms, by valuation. They are represented by the ETF QQQ.
+  NASDAQ 100 is the top 100 North-American non-financial firms, by valuation.
+  They are represented by the ETF QQQ.
 
   * Currently, NASDAQ is very "tech-heavy"
   * It is less diversified than the SP500, but it's been out-performing the SP500 for over 10 years
-  * Just like the SP500, it will reevaluate once a year and adjust holdings based on current valuations
+  * Just like the SP500, it will reevaluate once a year and adjust holdings based on
+   current valuations
 
   ```
 </details>
