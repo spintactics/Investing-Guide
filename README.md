@@ -53,7 +53,7 @@
       </ul>
     </li>
     <li>
-      <a href="#taxable-investing">Retirement Investing</a>
+      <a href="#taxable-investing">Taxable Investing</a>
       <ul>
         <li><a href="#passive-investing">Passive Investing</a></li>
         <li>
@@ -93,7 +93,6 @@
 
   This section will cover various strategies for taxable investing.
 
-  <br />
   <br />
   <a href="#fsa">FSA</a> is a way to avoid paying income tax on money spent on many everyday items, such as diapers and condoms.
 </details>
