@@ -352,6 +352,7 @@
 
   * Appetite for risk. Stocks are more volatiles than ETFs. A stock can drop as much as 15% in a day. Can you stomach that? 
   * Do not buy a stock because of hype. Spend a lot of time vetting the company. Professional investors will track hundreds of companies, but will only hold around 7 stocks at a time. That is the level of research you must do
+  * You must continue to track news and updates on the company
 
   ```yaml
   You must do thorough research yourself on a stock you wish to buy
@@ -410,9 +411,9 @@
   ```
   You can't hold onto a stock forever, hoping for the best
   ```
-  In 2000, General Electric ([GE][ge-url]) was one of the 10 most valuable companies in the USA. It was one of the original 12 stocks that formed the Dow Jones Industrial Average, back in 1896. In 2018, GE was removed from the Dow, after losing over 80% of it's valuation in less than 2 decades.
+  In 2000, General Electric ([GE][ge-url]) was the most valuable companies in the world. It was one of the original 12 stocks that formed the Dow Jones Industrial Average, back in 1896. In 2018, GE was removed from the Dow, after losing over 80% of it's valuation in less than 2 decades. It lost 55% of its' valuation in just one of those years!
 
-  You can't blindly buy a stock, even if it's a "safe stock", and think decades from now, it'll be worth more. Every stock you buy for the long term must be thoroughly vetted.
+  You can't blindly buy a stock, even if it's a "safe stock", and think decades from now, it'll be worth more. Every stock you buy for the long term must be thoroughly vetted. You must continue to track it and know when to give up.
 
   Do your research thoroughly
 </details>
@@ -426,7 +427,29 @@
 
   <br />
 
-  TODO
+  This is what I do, and it'll see you the biggest returns, at the cost of time. Active daily investing requires a few things:
+  
+  * Up to 20 minutes each workday, from 3pm-4pm EST. Most days, I only need 10 seconds. The time window is important because that's the final trading hour. Prices are most stable then, and the market is usually decided by then.
+  * WMA (weighted moving average)
+  * RSI (relative strength index)
+
+  ```
+  Example of why the closing hour window is important
+  ```
+  <img src=[img-Intraday-Volatility] alt="Logo" width="80" height="80">
+  
+  * If your daily check on this stock was in the morning, you would think the stock was soaring to the moon. You may even make some poor choices, based on the sharp rise
+  * If your daily check was in the later half of the day, where it had a sharp drop, you would think the stock was crashing. You may even make some poor choices, based on the sharp fall
+  * By checking in the final hour, we can see that the price is not only stable, but that the day ended in a 2% gain
+
+  ```
+  WMA
+  ```
+
+  ```
+  RSI
+  ```
+
 </details>
 </details>
 
