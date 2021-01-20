@@ -413,7 +413,7 @@
   ```
   You can't hold onto a stock forever, hoping for the best
   ```
-  In 2000, General Electric ([GE][ge-url]) was the most valuable companies in the world. It was one of the original 12 stocks that formed the Dow Jones Industrial Average, back in 1896. In 2018, GE was removed from the Dow, after losing over 80% of it's valuation in less than 2 decades. It lost 55% of its' valuation in just one of those years!
+  In 2000, General Electric ([GE][ge-url]) was the most valuable company in the world. It was one of the original 12 stocks that formed the Dow Jones Industrial Average, back in 1896. In 2018, GE was removed from the Dow, after losing over 80% of it's valuation in less than 2 decades. It lost 55% of its' valuation in just one of those years!
 
   You can't blindly buy a stock, even if it's a "safe stock", and think decades from now, it'll be worth more. Every stock you buy for the long term must be thoroughly vetted. You must continue to track it and know when to give up.
 
