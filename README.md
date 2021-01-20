@@ -348,7 +348,51 @@
 
   <br />
 
-  TODO
+  If you want to buy stocks for individual companies, without checking on them, you'll need a few things:
+
+  * Appetite for risk. Stocks are more volatiles than ETFs. A stock can drop as much as 15% in a day. Can you stomach that? 
+  * Do not buy a stock because of hype. Spend a lot of time vetting the company. Professional investors will track hundreds of companies, but will only hold around 7 stocks at a time. That is the level of research you must do
+
+  ```yaml
+  You must do thorough research yourself on a stock you wish to buy
+
+  Ask yourself:
+  * What does this company's financials look like?
+  * What is the financial breakdown of the company?
+  * Who are all the competitors to the company, in every revenue source?
+  * Is the sector/s this company belongs to doing well or dying?
+  * Is this company profitable?
+  * Do they have outstanding debts?
+  * When are their debts due?
+  * Is this IPO day? Never buy shares on IPO day
+  * etc
+  ```
+
+  Before I close this section, I want to share some of my failure stories regarding the importance of some of the above questions.
+  
+  ```
+  What is the financial breakdown of the company?
+  ```
+  When Disney (DIS) announced they were making Disney+, I waited for a Disney stock dip and bought some shares. I did research, but not enough. My research showed that Disney owned over 50% of the global box office, and I predicted that Disney+ would shred Netflix's market share. When Disney+ launched, my disney shares were up. I made 15% net total on my Disney shares!
+
+  But the problem was the market (SP500/SPY) was up 25% during that whole time I had Disney shares. When I looked at Disney's financial breakdown, only 10% of their revenue was in home media. Majority of their revenue was from theme parks and in-theater movie showings.
+
+  Even though I did do research, and bought Disney at a discount, I didn't beat the market.
+
+  Do your research thoroughly
+
+  ```
+  Is this IPO day? \\ Is this company profitable? \\ Who are the competitors?
+  ```
+  When Slack (WORK) went public, I bought shares because every job I've had has used Slack, and I enjoy using their product. I bought shares on IPO day. This was my first mistake. Shares almost always slide in price over the next few weeks after IPO, as hype dies down. If a company you're excited for IPOs, track it, and wait a few days. You'll almost always get a discounted price if you wait a few days or weeks.
+
+  Second mistake I made, I didn't check the company's profitability. Slack was heavily in debt, and very much negative cash flow. Their shares lost half their value since IPO in a matter of a few months.
+
+  Third mistake I made, I didn't check their competitors. Slack's competitor was Microsoft's Team. But Microsoft has much deeper penetration in the enterprise communication market due to their long history with several big companies and organizations (like the federal government)
+
+  Even though I was familiar with their product and believed in it, I lost money on Slack.
+
+  Do your research thoroughly
 </details>
 </details>
 
