@@ -373,7 +373,7 @@
   ```
   What is the financial breakdown of the company?
   ```
-  When Disney ([DIS][dis-url]) announced they were making Disney+, I waited for a Disney stock dip and bought some shares. I did research, but not enough. My research showed that Disney owned over 50% of the global box office, and I predicted that Disney+ would shred Netflix's market share. When Disney+ launched, my Disney shares were up. I made +15% net total on my Disney shares!
+  When Disney ([DIS][dis-url]) announced they were making Disney+, I waited for a Disney stock dip and bought some shares. I did research, but not enough. My research showed that Disney owned over 50% of the global box office, and I predicted that Disney+ would shred Netflix's market share. When Disney+ launched, my Disney shares were up. I made +15% over the whole time I owned Disney shares!
 
   But the problem was the market (SP500/SPY) was up 25% during that whole time I had Disney shares. When I looked at Disney's financial breakdown, only 10% of their revenue was in home media. Majority of their revenue was from theme parks and in-theater movie showings.
 
@@ -403,7 +403,7 @@
 
   Why?
 
-  * Tesla was not profitable
+  * Tesla was not profitable at the time
   * Tesla had been taking loans for over 7 years
   * In January 2018, those debts were being called in by Tesla's creditors
 
