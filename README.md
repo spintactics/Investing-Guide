@@ -439,7 +439,7 @@
   ```
   Example of why the closing hour window is important
   ```
-  <img src="images/Intraday-Volatility.jpg" alt="Intraday-Volatility" width="300" height="450">
+  <img src="images/Intraday-Volatility.jpg" alt="Intraday-Volatility" width="388" height="450">
 
   * If your daily check on this stock was in the morning, you would think the stock was soaring to the moon. You may even make some poor choices, based on the sharp rise
   * If your daily check was in the later half of the day, where it had a sharp drop, you would think the stock was crashing. You may even make some poor choices, based on the sharp fall
@@ -451,15 +451,18 @@
   ```
   The [WMA][wma-url] answers the question "Is this stock doing well?"
 
+  <img src="images/wma-example.jpg" alt="wma-example" width="236" height="450">
+
   * The WMA has a time component. Recommended to start with the 35-day WMA. Use a longer WMA for stocks you plan to hold for longer, and shorter for faster cycle trades
   * If the current price of the stock is above the WMA, the stock is doing well
   * If the current price of the stock is below the WMA, the stock is doing poorly
 
+<img src="images/candlestick-chart.jpg" alt="candlestick-chart" width="600" height="450">
+
   In the [WMA][wma-url] example:
   * WMA is the red line
-  * Rectangles represent the prices of the day. Green means a daily gain, red means a daily loss. The top of the rectangle is the opening price if it was a loss, and the closing price if it was a gain. Conversely, the bottom of the rectangle is the closing price if it was a loss, and the opening price if it was a gain.
-  * The vertical lines extended from both ends of the rectangle are known as "tails". These represent the maximum and minimum price of the stock during that day
-  * This graph is also known as a candle-stick graph
+  * Rectangles represent the prices of the day. Green means a daily gain (Daily Bullish Candle), red means a daily loss (Daily Bearish Candle). The top of the rectangle is the opening price if it was a loss, and the closing price if it was a gain. Conversely, the bottom of the rectangle is the closing price if it was a loss, and the opening price if it was a gain.
+  * The vertical lines extended from both ends of the rectangle are known as "wicks". These represent the maximum (high) and minimum (low) price of the stock during that day
 
 
   ```
@@ -474,11 +477,15 @@
   * 70 RSI or higher is considered very overhyped. If the stock is here, consider selling soon. There is usually a sharp price drop after a stock hits 70 RSI
   * 30 RSI or lower is considered very underhyped. You shouldn't wait for a stock to be here to buy. Stocks have often shown recovery before it falls this low.
 
+<img src="images/rsi-example.jpg" alt="rsi-example" width="481" height="450">
+
   In the [RSI][rsi-url] example:
   * The bottom graph is the RSI
+  * The top graph portrays the price and WMA
   * Note how the time the stock spends above 70 RSI is shaded grey. Notice how hard & soon the RSI & price fall after hitting 70 RSI
   * Note how the time the stock spends under 30 RSI is shaded red
-  * You can change the RSI time component to 35-days on the upper-right hand side of the page. You can also add the WMA in there, via "Add Indicators"
+  * You can change the RSI time component to 35-days on the upper-right hand side of the [page][rsi-url]. You can also add the WMA in there, via "Add Indicators". After adding the desired "indicators", hit the green "CHART"
+  * If you're curious about how this graph looks with other stocks/ETFs, just put something else in the textbox under "MARKET"
   <br />
 
   ```
