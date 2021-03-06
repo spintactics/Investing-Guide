@@ -494,8 +494,8 @@
   I trade [TQQQ][tqqq-url]. TQQQ is a triple-leverage version of the NASDAQ 100 (QQQ). What triple leverage means is that it gets triple the gains, but triple the losses. Based on thousands of simulations of random entry and exit points over the past 5 years of data, this is the strategy [Jason][jason-url] and I personally use.
 
   The strategy is simple:
-  * Buy as much TQQQ as you safely can if BOTH the closing price of QQQ is greater than the 35d WMA (doing well) and it's under the 35d RSI (not overhyped)
-  * Sell all TQQQ shares if EITHER the closing price of QQQ is less than the 35d WMA (doing bad) or the 35d RSI is 70 or higher
+  * Buy as much TQQQ as you safely can if BOTH the closing price of QQQ is greater than the 35d WMA (doing well) AND the 35d RSI is under 60 (not overhyped)
+  * Sell all TQQQ shares if EITHER the closing price of QQQ is less than the 35d WMA (doing bad) OR the 35d RSI is 70 or higher
   * This same strategy can be applied to almost any stock. I've done it on others and successfully beaten the performance of just holding it
 
   To track the WMA & RSI, I strongly recommend either [current charts][rsi-url] or Webull mobile. On most days, I just check this one screen below and I'm done, unless I need to sell or buy.
